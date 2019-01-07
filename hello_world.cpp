@@ -8,6 +8,7 @@ int main(){
     cout<<"What day is it?"<<endl;
     day_of_the_week{};
     cin>>day_of_the_week;
-    cout<<day_of_the_week<<"is a good day"<<endl;
+    cout<<day_of_the_week<<"is a good day!"<<endl;
+    cout<<"You are a badass!"
     return 0;
 }
